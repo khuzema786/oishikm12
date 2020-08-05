@@ -43,7 +43,7 @@
 
 <img align="left" alt="AwEsOmE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oishikm12&show_icons=true" />
 
-<img align="left" alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12&layout=compact" />
+<img align="left" alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12" />
 
 [website]: https://oishikm12.me
 [twitter]: https://twitter.com/oishik_mandal
