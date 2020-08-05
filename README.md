@@ -1,5 +1,7 @@
 ### Hi there, I'm Oishik - aka [AwEsOmE][website] 👋
 
+[![Welcome to my Profile.](./header.png)][website]
+
 ## I'm a Student & a Developer!
 - 🔭 I’m currently working on projects [Portfolio][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -41,7 +43,7 @@
 
 <img align="left" alt="AwEsOmE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oishikm12&show_icons=true" />
 
-<img align="left" alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12" />
+<img align="left" alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12&layout=compact" />
 
 [website]: https://oishikm12.me
 [twitter]: https://twitter.com/oishik_mandal
