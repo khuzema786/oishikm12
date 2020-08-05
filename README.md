@@ -1,9 +1,9 @@
 ### Hi there, I'm Oishik - aka [AwEsOmE][website] 👋
 
-[![Welcome to my Profile.](./header.png)][website]
+[![Welcome to my Profile.](https://github.com/oishikm12/oishikm12/raw/master/header.png)][website]
 
 ## I'm a Student & a Developer!
-- 🔭 I’m currently working on projects [Portfolio][website]!
+- 🔭 I’m currently working on various projects. See my [Website][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I love to play keyboard & drums.
