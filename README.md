@@ -47,12 +47,12 @@
 ---
 <details>
     <summary>:zap: Github Stats</summary>
-    <img align="left" alt="AwEsOmE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oishikm12&show_icons=true" />
+    <img alt="AwEsOmE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oishikm12&show_icons=true" />
 </details>
 
 <details>
     <summary>:zap: Languages</summary>
-    <img align="left" alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12" />
+    <img alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12" />
 </details>
 
 [website]: https://oishikm12.github.io
