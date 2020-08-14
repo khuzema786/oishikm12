@@ -1,9 +1,12 @@
-### Hi there, I'm Oishik - aka [AwEsOmE][website] 👋
+### Hi there, I'm Oishik 👋
+
+![Website](https://img.shields.io/website?label=oishikm12.github.io&style=for-the-badge&url=https%3A%2F%2Foishikm12.github.io)
+![Twitter Follow](https://img.shields.io/twitter/follow/oishik_mandal?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 [![Welcome to my Profile.](https://github.com/oishikm12/oishikm12/raw/master/header.png)][website]
 
-## I'm a Student & a Developer!
-- 🔭 I’m currently working on various projects. See my [Website][website]!
+## I'm a Student Developer & Designer!
+- 🔭 I’m currently working on various projects.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
 - ⚡ Fun fact: I love to play keyboard & drums.
@@ -42,12 +45,17 @@
 <br />
 
 ---
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align="left" alt="AwEsOmE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oishikm12&show_icons=true" />
+</details>
 
-<img align="left" alt="AwEsOmE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oishikm12&show_icons=true" />
+<details>
+    <summary>:zap: Languages</summary>
+    <img align="left" alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12" />
+</details>
 
-<img align="left" alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12" />
-
-[website]: https://oishikm12.me
+[website]: https://oishikm12.github.io
 [twitter]: https://twitter.com/oishik_mandal
 [instagram]: https://instagram.com/11_oishik/
 [linkedin]: https://linkedin.com/in/oishik-mandal-539164170/
