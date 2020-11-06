@@ -45,15 +45,13 @@
 <br />
 
 ---
-<details>
-    <summary>:zap: Github Stats</summary>
-    <img alt="AwEsOmE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oishikm12&show_icons=true" />
-</details>
 
-<details>
-    <summary>:zap: Languages</summary>
-    <img alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12" />
-</details>
+<summary>:zap: <b>Github Stats</b></summary>
+<br>
+<p align = "center">
+    <img alt="AwEsOmE's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oishikm12&show_icons=true&theme=tokyonight&line_height=40" />
+    <img alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12&theme=tokyonight" />
+</p>
 
 [website]: https://oishikm12.github.io
 [twitter]: https://twitter.com/oishik_mandal
