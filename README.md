@@ -1,6 +1,6 @@
 ### Hi there, I'm Oishik 👋
 
-![Website](https://img.shields.io/website?label=oishikm12.github.io&style=for-the-badge&url=https%3A%2F%2Foishikm12.github.io)
+![Website](https://img.shields.io/website?label=oishik.live&style=for-the-badge&url=https%3A%2F%2Foishik.live)
 ![Twitter Follow](https://img.shields.io/twitter/follow/oishik_mandal?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 [![Welcome to my Profile.](https://github.com/oishikm12/oishikm12/raw/master/header.png)][website]
@@ -53,7 +53,7 @@
     <img alt="AwEsOmE's Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oishikm12&theme=tokyonight" />
 </p>
 
-[website]: https://oishikm12.github.io
+[website]: https://oishik.live
 [twitter]: https://twitter.com/oishik_mandal
 [instagram]: https://instagram.com/11_oishik/
 [linkedin]: https://linkedin.com/in/oishik-mandal-539164170/
