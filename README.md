@@ -1,7 +1,7 @@
 ### Hi there, I'm Oishik 👋
 
-![Website](https://img.shields.io/website?label=oishik.live&style=for-the-badge&url=https%3A%2F%2Foishik.live)
-![Twitter Follow](https://img.shields.io/twitter/follow/oishik_mandal?color=1DA1F2&logo=twitter&style=for-the-badge)
+[![Website](https://img.shields.io/website?label=oishik.live&style=for-the-badge&url=https%3A%2F%2Foishik.live)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/oishik_mandal?color=1DA1F2&logo=twitter&style=for-the-badge)][twitter]
 
 [![Welcome to my Profile.](https://github.com/oishikm12/oishikm12/raw/master/header.png)][website]
 
